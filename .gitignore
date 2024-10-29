@@ -1,0 +1,15 @@
+# Node modules
+fe/node_modules/
+be/node_modules/
+
+# Package lock files
+fe/package-lock.json
+be/package-lock.json
+
+# Optional: Ignore environment files
+fe/.env
+be/.env
+
+# Optional: Mac and other OS specific files
+.DS_Store
+Thumbs.db
